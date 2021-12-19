@@ -1,5 +1,0 @@
-*.class
-target/
-.nrepl-port
-.lein-*
-*.edn

@@ -1,0 +1,15 @@
+5 4 6
+2 1 3
+8 7 9
+  10
+
+1 - creppy tree
+2 - red truck and mobile home
+3 - bathroom complex
+4 - oil tankers
+5 - blue truck
+6 - tunnel
+7 - cross walls
+8 - wood pillars
+9 - rock pile/trio
+10 - silo

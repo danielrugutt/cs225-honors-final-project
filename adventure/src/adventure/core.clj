@@ -174,7 +174,6 @@
 (def adventurer
   {:location :Creppy-Tree
    :inventory #{}
-   :hp 10
    :tick 0
    :seen #{}})
 
